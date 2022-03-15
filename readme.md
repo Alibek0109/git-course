@@ -2,3 +2,4 @@
 
 - Crash Course for Git
 - <git clone https://github.com/Alibek0109/git-course.git>
+- установите composer ---> composer update
